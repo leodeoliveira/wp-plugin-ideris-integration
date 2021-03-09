@@ -1,2 +1,2 @@
 # wp-plugin-ideris-integration
-Ideris integration 
+A small plugin to integrate woocommerce and Ideris API.
